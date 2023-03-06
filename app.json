@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bio-auth",
+    "slug": "bio-auth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bio-auth"
+}
